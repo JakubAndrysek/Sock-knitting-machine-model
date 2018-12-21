@@ -8,11 +8,11 @@
 
 1. Model pletačky jsem začal modelovat o Vánocích v roce 2017. 
 
-2. S modelováním jsem skončil v březnu 2018.
+2. S modelováním jsem skončil v březnu 2018 [Odkaz na 3D model](https://workbench.grabcad.com/workbench/projects/gchwamHRxXF6Vy5aJGLRdID5SH9QymRXI5JiBAAqs7ZT38#/space/gchvaLnyfD6r6Hxe0bt5N4Y4Xl-FaUrxGMuVTlzO3QPjRB/link/1630928)
 
 	 ![/Fotky/Home_small.PNG](/Fotky/Home_small.PNG)
 
-	- [Odkaz na 3D model](https://workbench.grabcad.com/workbench/projects/gchwamHRxXF6Vy5aJGLRdID5SH9QymRXI5JiBAAqs7ZT38#/space/gchvaLnyfD6r6Hxe0bt5N4Y4Xl-FaUrxGMuVTlzO3QPjRB/link/1630928)
+ 
 
 3. Na konci března jsem začal tisknout díly na 3D tiskarně ve [FabLabu](https://www.fablabbrno.cz/).
 	![/Fotky/Tisk_prvni.jpg](/Fotky/Tisk_prvni.jpg)
