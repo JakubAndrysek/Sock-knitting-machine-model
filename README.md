@@ -24,5 +24,9 @@
 	![/Fotky/Pajeni.jpg](/Fotky/Pajeni.jpg)
 	![/Fotky/Pohled_oled.jpg](/Fotky/Pohled_oled.jpg)
 7. A už se může programovat :-)
-	![/Fotky/Programovani_zacatek.jpg](/Fotky/Programovani_zacatek.jpg)
-8. 
+	![/Fotky/Kod_zacatek.jpg](/Fotky/Kod_zacatek.jpg)
+8. Postupně jsem přidával kódu víc a víc až vzniklo tohle
+	![/Fotky/Kod_delsi.jpg](/Fotky/Kod_delsi.jpg)
+9. Pak už stačilo jen dotisknou zbytek dílů a ušít koš na upletené ponožk
+	 ![/Fotky/Tisk_posledni.jpg](/Fotky/Tisk_posledni.jpg)
+	 
