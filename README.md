@@ -26,7 +26,15 @@
 7. A už se může programovat :-)
 	![/Fotky/Kod_zacatek.jpg](/Fotky/Kod_zacatek.jpg)
 8. Postupně jsem přidával kódu víc a víc až vzniklo tohle
-	![/Fotky/Kod_delsi.jpg](/Fotky/Kod_delsi.jpg)
-9. Pak už stačilo jen dotisknou zbytek dílů a ušít koš na upletené ponožk
+	![/Fotky/Kod_delsi.JPG](/Fotky/Kod_delsi.JPG)
+9. Pak už stačilo jen dotisknou zbytek dílů 
 	 ![/Fotky/Tisk_posledni.jpg](/Fotky/Tisk_posledni.jpg)
+10. Ušít koš na upletené ponožky
+	![/Fotky/Tisk_posledni.jpg](/Fotky/Tisk_posledni.jpg)
+
+11. A je hotovo
+	
+
+### Autor: Jakub Andrýsek
+### 22.12.2018
 	 
