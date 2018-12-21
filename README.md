@@ -16,7 +16,10 @@
 
 3. Na konci března jsem začal tisknout díly na 3D tiskarně ve [FabLabu](https://www.fablabbrno.cz/).
 	- ![/Fotky/Tisk_prvni.jpg](/Fotky/Tisk_prvni.jpg)
-5. Po měsíci tisknutí jsem měl vytištěno asi 3/4 pletačky, kterou jsem ihned začal programovat.
-6. V dubnu jsem otestoval motory, ledky, tlačítka, a OLED displej.
-7. ![/Fotky/OLED.PNG](/Fotky/OLED.PNG)
-8. 
+4. Po měsíci tisknutí jsem měl vytištěno asi 3/4 pletačky, kterou jsem ihned začal skládat.
+	- ![/Fotky/Vytisk_rozlozenojpg](/Fotky/Vytisk_rozlozeno.jpg)
+5. Po poskládání přichází na řadu otestování jednotlivých komponentů.
+	-![/Fotky/OLED.JPG](/Fotky/OLED.JPG)
+6. Poté všechno spájet a vlepit do pletačky.
+	- ![/Fotky/Pajeni.jpg](/Fotky/Pajeni.jpg)
+	- ![/Fotky/Pohled_oled.jpg](/Fotky/Pohled_oled.jpg)
