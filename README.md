@@ -13,7 +13,6 @@
 2. S modelováním jsem skončil v březnu 2018 [Odkaz na 3D model](https://workbench.grabcad.com/workbench/projects/gchwamHRxXF6Vy5aJGLRdID5SH9QymRXI5JiBAAqs7ZT38#/space/gchvaLnyfD6r6Hxe0bt5N4Y4Xl-FaUrxGMuVTlzO3QPjRB/link/1630928)
 
 	 ![/Fotky/Home_mala.PNG](/Fotky/Home_mala.PNG)
-
  
 
 3. Na konci března jsem začal tisknout díly na 3D tiskarně ve [FabLabu](https://www.fablabbrno.cz/).
@@ -27,7 +26,8 @@
 	![/Fotky/Lepeni.jpg](/Fotky/Lepeni.jpg)
 7. A už se může programovat :-)
 	![/Fotky/Kod_zacatek.jpg](/Fotky/Kod_zacatek.jpg)
-8. Postupně jsem přidával kódu víc a víc až vzniklo tohle
+8. Postupně jsem přidával kódu víc a víc až vzniklo [tohle](https://github.com/JakubAndrysek/Model_pletacky_na_ponozky/tree/master/Software/Pletacka)
+
 	![/Fotky/Kod_delsi.JPG](/Fotky/Kod_delsi.JPG)
 9. Pak už stačilo jen dotisknou zbytek dílů 
 	 ![/Fotky/Tisk_posledni.jpg](/Fotky/Tisk_posledni.jpg)
