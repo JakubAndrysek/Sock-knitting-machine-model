@@ -2,7 +2,7 @@
 
 # Model pletačky na ponožky
 
-## Rocní projekt ve kterém jsem vymodeloval a naprogramoval model pletacího stroje na ponožky
+## Roční projekt ve kterém jsem vymodeloval a naprogramoval model pletacího stroje na ponožky
 
 ![/Fotky/Cas.png](/Fotky/Cas.png)
 
@@ -38,13 +38,11 @@
 
 ### Další fotky
 ![/Fotky/Cas.png](/Fotky/Cas.png)
-![/Fotky/Ange_logo.jpg](/Fotky/Ange_logo.jpg)
 ![/Fotky/P_rotace.png](/Fotky/P_rotace.png)
 ![/Fotky/P_vnitrni.png](/Fotky/P_vnitrni.png)
 
 ### Video
-[![Watch the video](https://lh3.googleusercontent.com/9BqCESKsapBKMt3KD2rWirLt9ORfu68JTtXe9BH9RmTmTlQg9HP-v9bJexJ_3klu1m0EN4LLlxxLMNY3ne-ZA79hf7dUEx7M6XTYYez2om3DR5Xa-JCaXHX_fwo7XRz6X_FxxGwlgw=w1920-h1080-k-no)](https://photos.google.com/share/AF1QipPf2oop6pGB2L_BISxVp6hN9wAGHu7s1NGHFrLQgZVNHJF-ZoMhBWx2OzkWOJbZqQ/photo/AF1QipM0H9STEbF3u05I--geT6c9mtoL0onRnDFkZbWt?key=dU80T0hYa1ZwckdHZ2JRQUMtY3ZfTF9LR1JyTEVR)
-
+[![Watch the video](/Fotky/Ange_logo.jpg)](https://photos.google.com/share/AF1QipPf2oop6pGB2L_BISxVp6hN9wAGHu7s1NGHFrLQgZVNHJF-ZoMhBWx2OzkWOJbZqQ/photo/AF1QipM0H9STEbF3u05I--geT6c9mtoL0onRnDFkZbWt?key=dU80T0hYa1ZwckdHZ2JRQUMtY3ZfTF9LR1JyTEVR)
 
 ### Autor: Jakub Andrýsek
 ### 22.12.2018
