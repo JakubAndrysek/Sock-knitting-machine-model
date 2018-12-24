@@ -4,4 +4,4 @@
 
 [![Watch the video](https://github.com/JakubAndrysek/Model_pletacky_na_ponozky/raw/master/Fotky/Cas.png)](https://github.com/JakubAndrysek/Model_pletacky_na_ponozky/wiki)
 
-### Více informací [zde](https://github.com/JakubAndrysek/Model_pletacky_na_ponozky/wiki)
+# Více informací [zde](https://github.com/JakubAndrysek/Model_pletacky_na_ponozky/wiki)
