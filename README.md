@@ -22,7 +22,7 @@
 	![/Fotky/OLED.JPG](/Fotky/OLED.JPG)
 6. Poté všechno spájet a vlepit do pletačky.
 	![/Fotky/Pajeni.jpg](/Fotky/Pajeni.jpg)
-	![/Fotky/Pohled_oled.jpg](/Fotky/Pohled_oled.jpg)
+	![/Fotky/Lepeni.jpg](/Fotky/Lepeni.jpg)
 7. A už se může programovat :-)
 	![/Fotky/Kod_zacatek.jpg](/Fotky/Kod_zacatek.jpg)
 8. Postupně jsem přidával kódu víc a víc až vzniklo tohle
@@ -30,11 +30,23 @@
 9. Pak už stačilo jen dotisknou zbytek dílů 
 	 ![/Fotky/Tisk_posledni.jpg](/Fotky/Tisk_posledni.jpg)
 10. Ušít koš na upletené ponožky
-	![/Fotky/Tisk_posledni.jpg](/Fotky/Tisk_posledni.jpg)
+	![/Fotky/Kos.jpg](/Fotky/Kos.jpg)
 
 11. A je hotovo
-	
+
+### Další fotky
+![/Fotky/Ange_logo.jpg](/Fotky/Ange_logo.jpg)
+![/Fotky/P_zepredu.jpg](/Fotky/P_zepredu.jpg)
+![/Fotky/P_zprava.jpg](/Fotky/P_zprava.jpg)
+![/Fotky/P_zezadu.jpg](/Fotky/P_zezadu.jpg)
+![/Fotky/P_dovnitr.jpg](/Fotky/P_dovnitr.jpg)
+![/Fotky/P_led.jpg](/Fotky/P_led.jpg)
+
+### Video
+[![Watch the video](https://lh3.googleusercontent.com/9BqCESKsapBKMt3KD2rWirLt9ORfu68JTtXe9BH9RmTmTlQg9HP-v9bJexJ_3klu1m0EN4LLlxxLMNY3ne-ZA79hf7dUEx7M6XTYYez2om3DR5Xa-JCaXHX_fwo7XRz6X_FxxGwlgw=w1920-h1080-k-no)](https://photos.google.com/share/AF1QipPf2oop6pGB2L_BISxVp6hN9wAGHu7s1NGHFrLQgZVNHJF-ZoMhBWx2OzkWOJbZqQ/photo/AF1QipM0H9STEbF3u05I--geT6c9mtoL0onRnDFkZbWt?key=dU80T0hYa1ZwckdHZ2JRQUMtY3ZfTF9LR1JyTEVR)
+
 
 ### Autor: Jakub Andrýsek
 ### 22.12.2018
+
 	 
